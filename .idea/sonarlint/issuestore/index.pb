@@ -5,3 +5,5 @@ W
 'contracts/virtual-universe-creator.clar,7/4/74e2df7017ad6de39e4cadfa111423517186de0c
 V
 &tests/virtual-universe-creator.test.ts,e/4/e47211b5ad74640a504f80ac418947c649d8c3d1
+R
+"contracts/experience-licensor.clar,0/9/096507df7c86d7030fa33ee060e8f1031b7b9171
